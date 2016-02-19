@@ -14,3 +14,7 @@
 	path = odoo/odoo
 	url = https://github.com/odoo/odoo.git
 	branch = 8.0
+[submodule "Elico-Corp/odoo-addons"]
+	path = Elico-Corp/odoo-addons
+	url = https://github.com/Elico-Corp/odoo-addons.git
+	branch = 8.0
